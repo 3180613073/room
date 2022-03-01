@@ -1,4 +1,5 @@
 # room
+博客地址https://blog.csdn.net/qq_39286138/article/details/123185778
 写一个开源项目，采用kotlin+MVVM+viewmodel+databinding+liveData+Retrofit搭框架 供大家参考
 ​
 为什么选用的是kotlin呢，因为我个人更喜欢写kotlin，当然也因为kotlin语言发展前景不错。
